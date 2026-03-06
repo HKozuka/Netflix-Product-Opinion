@@ -28,7 +28,7 @@ This is the real lesson from the failed merger. Warner Bros. has *classics*: pro
 
 There's a difference between a show that trends and a show that *endures*.
 
-If Netflix wants to close that gap, the answer isn't acquisition. It's **intentional investment in multi-season storytelling**. Committing to one or two flagship projects built with a full narrative arc from day one. Giving creators the runway and the protection to actually execute a vision across multiple seasons.
+**If Netflix wants to close that gap, the answer isn't acquisition. It's **intentional investment in multi-season storytelling**. Committing to one or two flagship projects built with a full narrative arc from day one. Giving creators the runway and the protection to actually execute a vision across multiple seasons.**
 
 That's how you stop chasing trends and start building a canon.
 
