@@ -38,7 +38,9 @@ Netflix's move is a reminder that **strategic restraint is a product decision**.
 
 The questions worth asking:
 
-Are we optimizing for short-term engagement or long-term loyalty? Do our incentive structures reward creators for depth, or just for launch performance? What's the difference between what our users *click on* and what they actually *remember*?
+- Are we optimizing for short-term engagement or long-term loyalty?
+- Do our incentive structures reward creators for depth, or just for launch performance?
+- What's the difference between what our users *click on* and what they actually *remember*?
 
 Netflix has the creative pipeline. Now it needs the product strategy to make its work stick.
 
