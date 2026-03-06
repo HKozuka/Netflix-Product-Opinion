@@ -1,5 +1,3 @@
-# Netflix-Product-Opinion
-
 # Netflix Walked Away from Warner Bros. That Might Be the Best Product Decision of the Year.
 
 The entertainment industry has been buzzing about Netflix's decision to back out of a potential merger with Warner Bros. Shareholders cheered. Analysts weighed in. And somewhere in a group chat, two people who clearly pay attention had a conversation that stuck with me.
